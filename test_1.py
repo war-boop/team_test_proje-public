@@ -1,0 +1,1 @@
+print("bu ilk test mesaji ben omer")
